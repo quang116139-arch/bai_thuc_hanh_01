@@ -1,0 +1,7 @@
+1. Nhập a và b
+2. Tìm số lớn hơn : nếu a>b thì max = a, ngược lại max = b
+3.Gán i = max;
+4.Lặp vô hạn(while(1):
++Nếu i%a ==0 và i%b==0 thì bcnn =i rồi break để thoát vòng lặp
++Nếu không thì i++ và kiểm tra tiếp
+5.Xuất bcnn
