@@ -1,0 +1,6 @@
+1.Nhập N.Nếu N<2 thì kêt luận không phải số nguyên tố
+2.Gán i =2
+3.Lặp khi ixi <=N(tương đương i<cănN):
++Nếu N chia hết cho i ( N%i==0) thì N có ước, kết luận không phảii số nguyên tố và dừng 
++Nếu không thì i = i+1
+4.Thoát vòng lặp mà chưa tìm thấy ước nào thì N là số nguyên tố
