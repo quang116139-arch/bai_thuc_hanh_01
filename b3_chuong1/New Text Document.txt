@@ -1,0 +1,7 @@
+1.Nhập n và n số nguyên của mảng a
+2.Gán max = a[1] , tức lf tạm coi phàn tử đầu tiên là lớn nhất. Gán i =2
+3.Lặp khi i <=n:
++ nếu a[i] > max thì cập nhập max = a[i]
++ nếu không thì giữ nguyên max
++ tăng i lên 1
+4. Thoát vòng lặp thì xuất max
